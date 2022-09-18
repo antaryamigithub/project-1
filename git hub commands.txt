@@ -1,0 +1,52 @@
+pwd-
+ls-
+cd- in a string if space in folder name
+cd- if no space then direct folder name
+cd..- to back one folder
+clear---clear all
+
+cd../..---to back two folder
+mkdir <folder name> ----creat a folder name test_app 
+
+mkdir f1 f2 f3-----create multiple folder
+
+rmdir <folder name>------to delete folder---but only empty folder (if no file inside it)
+
+rm -r <folder_name>--delete folder if file is there or not there also
+
+
+rm --help -------to see the possible commands and details
+
+touch file_name.extension ---to creat a file 
+
+cat  <file_name.extension>   ---to read what written inside file
+
+nano <file_name.ext> ----to write or edit
+
+after edit ctrl+s and ctrl+x to exit after saving.....cltr+g for help inside after go to nano edit
+
+
+
+
+git init----to make the directory as your local server
+git add
+git comit
+git push
+git pull
+
+
+
+git config --list      to check email and username
+git config --global user.name 'name'----to change user name
+git config --global user.email 'email'----to change user email
+ls -a ----to see hidden files
+
+
+proj-1:
+https://github.com/antaryamigithub/project-1.git
+
+token no:
+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
+
+
+
