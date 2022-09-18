@@ -42,6 +42,8 @@ git config --global user.email 'email'----to change user email
 ls -a ----to see hidden files
 
 
+---ctrl+c if stuck somewhwere in middle
+
 proj-1:
 https://github.com/antaryamigithub/project-1.git
 
@@ -61,3 +63,12 @@ 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
 4.git add. (to add all files at a time tracked )
 5.git rm --cached f1.py     ----to untrack again
 6.git commit -m 'message'-----to commit 
+7. git push origin master
+
+then ask for token  no
+
+8.git push --set-upstream origin master 
+
+once did this then next time only git push
+9.git pull origin master
+10.
