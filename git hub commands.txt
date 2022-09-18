@@ -59,3 +59,5 @@ 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
 2.git status---to check file tracking status
 3.git add <file name>  to add
 4.git add. (to add all files at a time tracked )
+5.git rm --cached f1.py     ----to untrack again
+6.git commit -m 'message'-----to commit 
