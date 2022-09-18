@@ -71,4 +71,4 @@ then ask for token  no
 
 once did this then next time only git push
 9.git pull origin master
-10.
+10. git restore --staged f1.py (to untrack or unstage but not delete in git hub)
