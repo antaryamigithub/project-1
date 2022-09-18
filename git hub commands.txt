@@ -49,4 +49,13 @@ token no:
 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
 
 
+1.to make the connection between local repo in git & git hub repo
 
+--git remote -v (to check connectin)
+
+---git remote add origin <repo link>
+ (to make the connection)
+
+2.git status---to check file tracking status
+3.git add <file name>  to add
+4.git add. (to add all files at a time tracked )
